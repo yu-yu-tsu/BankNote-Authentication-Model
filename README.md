@@ -1,5 +1,5 @@
 # BankNote-Authentication-Model
-this is project made on No code machine learning platform name AWS SageMaker to validate a Bank Note
+This project made on No code machine learning platform name AWS SageMaker to validate a Bank Note
 
 In the first image you can see I am adding data to my dataset and after that I have to name name my data Model.
 
